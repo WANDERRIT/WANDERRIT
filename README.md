@@ -1,3 +1,4 @@
+#Olá, sou Wander!!!
 ### - Desenvolvedor Front-end
 #### - E-mail: wander_rit@outlook.com
 #### - Sou estudante de ADS na Uninove e desenvolvimento fullStack pela Gama Academy. Atualmente atuando na área de TI na VIVO/Telefônica, mais precisamente na área de Salesforce onde sou certificado como associate.
